@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1551398589 source:c:\users\alexk\documents\master\computer_sys_class\linkedlist\main.cpp
+	<iostream>
+	"LinkedList.hpp"
+
+1551222756 source:c:\users\alexk\documents\master\computer_sys_class\linkedlist\src\linkedlist.cpp
+	"LinkedList.h"
+
+1551222756 c:\users\alexk\documents\master\computer_sys_class\linkedlist\include\linkedlist.h
+
+1551398483 source:c:\users\alexk\documents\master\computer_sys_class\linkedlist\linkedlist.cpp
+	"LinkedList.hpp"
+	<iostream>
+
+1551397288 c:\users\alexk\documents\master\computer_sys_class\linkedlist\linkedlist.hpp
+

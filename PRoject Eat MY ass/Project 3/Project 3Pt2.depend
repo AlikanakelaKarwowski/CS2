@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1556637182 source:c:\users\noah\desktop\cs2\project 3pt2\tree_main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<vector>
+	"Tree.hpp"
+
+1556631694 c:\users\noah\desktop\cs2\project 3pt2\tree.hpp
+	<iostream>
+	"Treenode.hpp"
+
+1555563044 c:\users\noah\desktop\cs2\project 3pt2\treenode.hpp
+
+1556657044 source:d:\project 3\tree_main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<vector>
+	"Tree.hpp"
+
+1556659208 d:\project 3\tree.hpp
+	<iostream>
+	<vector>
+	"Treenode.hpp"
+
+1555563046 d:\project 3\treenode.hpp
+

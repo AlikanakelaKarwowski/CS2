@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1551814154 source:c:\users\alexk\documents\master\computer_sys_class\charlist\charlist_main.cpp
+	<iostream>
+	"charList.hpp"
+
+1551826793 c:\users\alexk\documents\master\computer_sys_class\charlist\charlist.hpp
+
+1551826797 source:c:\users\alexk\documents\master\computer_sys_class\charlist\charlist.cpp
+	<iostream>
+	"charList.hpp"
+

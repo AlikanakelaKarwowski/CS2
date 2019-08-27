@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1554510945 source:c:\users\noah\desktop\cs2\project2\towers.cpp
+	<iostream>
+	"towers.h"
+	"mystack.h"
+
+1552492494 c:\users\noah\desktop\cs2\project2\towers.h
+	"mystack.h"
+
+1552486724 c:\users\noah\desktop\cs2\project2\mystack.h
+	<iostream>
+
+1553030572 source:c:\users\noah\desktop\cs2\project2\towerofhanoi.cpp
+	<iostream>
+	"towers.h"
+
+1552493035 source:c:\users\noah\desktop\cs2\project2\stack.cpp
+	<iostream>
+	"mystack.h"
+

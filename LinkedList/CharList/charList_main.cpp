@@ -1,0 +1,34 @@
+// This program demonstrates simple operations
+// on a linked list.
+#include <iostream>
+#include "charList.hpp"
+
+int main()
+{
+   // Define a NumberList object.
+   CharList list;
+
+   // Append some values to the list.
+   list.appendNode('t');
+   list.appendNode('s');
+   list.appendNode('n');
+   list.appendNode('m');
+   list.appendNode('j');
+   list.appendNode('f');
+   list.appendNode('c');
+   list.appendNode('a');
+   list.displayList();
+   list.insertNode('y');
+   list.insertNode('0');
+   list.insertNode('9');
+   list.insertNode('o');
+   list.insertNode('p');
+   list.insertNode('@');
+   list.insertNode('Q');
+   
+   list.displayList();
+   list.deleteNode('t');
+
+
+   return 0;
+}

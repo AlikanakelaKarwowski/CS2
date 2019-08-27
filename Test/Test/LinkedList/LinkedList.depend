@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\noah\desktop\csii\linkedlist\list.cpp
+	<iostream>
+
+1551222671 source:c:\users\noah\desktop\csii\linkedlist\src\linkedlist.cpp
+	"linkedList.hpp"
+
+1551223863 c:\users\noah\desktop\csii\linkedlist\include\linkedlist.hpp
+
+1551741607 source:c:\users\noah\desktop\cs2\linkedlist\list.cpp
+	<iostream>
+	"linkedList.hpp"
+
+1551394448 c:\users\noah\desktop\cs2\linkedlist\include\linkedlist.hpp
+
+1551741740 source:c:\users\noah\desktop\cs2\linkedlist\src\linkedlist.cpp
+	<iostream>
+

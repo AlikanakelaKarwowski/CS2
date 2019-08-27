@@ -1,0 +1,43 @@
+the arrow operator  combines the actions of what opperators
+Simply what the arrow operator does is that it combines(the * and the . operators)
+
+The function used to get the data at the top (or front) of the stack is called ________.
+Answer:Pop
+
+Given the following definition for a map, which code fragment will correctly iterate through the map and output each item?
+map<int, string> mymap;
+for (auto item : mymap)
+cout << item.first << " " << item.second << endl;
+
+Dynamically allocated memory that is no longer pointed to by any pointer variable causes a ________.
+Answer:memory leak
+
+A ________ is a list constructed using pointers.
+Answer:	linked list
+
+Given the following declarations, which statement would put the value of 3 in the item part of the first node in the linked list?
+head->item=3;
+
+Which of the following is NOT, strictly speaking, a component of the Standard Template Library?
+templates
+
+If you push the following numbers onto an integer stack, what item is on the top of the stack? (1,4,8,16)
+16
+
+template <class T> is called the ________.
+Answer:template prefix
+
+As defined in the text, the pointer variable head
+Correct Answer points to the first node in the list.
+
+Which of the following is NOT a member function of the queue adapter template? For members of queue, specify any needed arguments.
+top()
+
+Which of the following loops correctly uses iter as an iterator to move through the nodes of the linked list?
+NodePtr iter;
+
+for(iter=head;iter!=NULL;iter=iter->link)
+
+If obj1 and obj2 are both objects of a class that uses dynamic memory allocation, but the class does not have an assignment operator, what happens if you execute the following code?
+obj1=obj2;
+The pointer(s) to the dynamically declared memory in obj2 are copied to the corresponding pointers in obj1.

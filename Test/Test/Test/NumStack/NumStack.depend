@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1552439804 source:c:\users\noah\desktop\cs2\numstack\numstack.cpp
+	<iostream>
+	"NumStack.hpp"
+
+1552439804 c:\users\noah\desktop\cs2\numstack\numstack.hpp
+
+1552439804 source:c:\users\noah\desktop\cs2\numstack\stack.cpp
+	"stack.hpp"
+
+1552439804 c:\users\noah\desktop\cs2\numstack\stack.hpp
+	"NumStack.hpp"
+
+1552439804 source:c:\users\noah\desktop\cs2\numstack\main.cpp
+	<iostream>
+	"Stack.hpp"
+
+1552439806 source:c:\users\noah\desktop\test\numstack\main.cpp
+	<iostream>
+	"Stack.hpp"
+
+1552439806 c:\users\noah\desktop\test\numstack\stack.hpp
+	"NumStack.hpp"
+
+1552439806 c:\users\noah\desktop\test\numstack\numstack.hpp
+
+1552439806 source:c:\users\noah\desktop\test\numstack\numstack.cpp
+	<iostream>
+	"NumStack.hpp"
+
+1552439806 source:c:\users\noah\desktop\test\numstack\stack.cpp
+	"stack.hpp"
+

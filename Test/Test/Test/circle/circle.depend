@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1550863926 source:c:\users\noah\desktop\csii\circle\circlemain.cpp
+	<iostream>
+	"circle.hpp"
+
+1550864178 c:\users\noah\desktop\csii\circle\circle.hpp
+
+1551237886 source:c:\users\noah\desktop\cs2\circle\circlemain.cpp
+	<iostream>
+	<limits>
+	"circle.hpp"
+
+1551293966 c:\users\noah\desktop\cs2\circle\circle.hpp
+
+1551237888 source:c:\users\noah\desktop\circle\circlemain.cpp
+	<iostream>
+	<limits>
+	"circle.hpp"
+
+1551293968 c:\users\noah\desktop\circle\circle.hpp
+
