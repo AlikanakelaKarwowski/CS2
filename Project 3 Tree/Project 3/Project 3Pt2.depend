@@ -26,3 +26,17 @@
 
 1555563046 d:\project 3\treenode.hpp
 
+1556648460 source:c:\users\alexk\documents\github\cs2\project 3 tree\project 3\tree_main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<vector>
+	"Tree.hpp"
+
+1556648460 c:\users\alexk\documents\github\cs2\project 3 tree\project 3\tree.hpp
+	<iostream>
+	<vector>
+	"Treenode.hpp"
+
+1556648460 c:\users\alexk\documents\github\cs2\project 3 tree\project 3\treenode.hpp
+

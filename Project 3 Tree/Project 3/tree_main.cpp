@@ -27,7 +27,7 @@ int main()
     optTree.inOrderTraversal();
     std::cout <<std::endl;
     std::cout << "The depth of the tree is "<< optTree.getDepth()<<std::endl;
-    /*
+    
     int intVal;
     std::cout << "The values being placed in the tree are:\n";
 
@@ -56,6 +56,6 @@ int main()
         std::cout << "Element was not found\n";
     }
     std::cout << std::endl;
-    */
+
 
 }
